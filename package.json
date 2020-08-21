@@ -1,0 +1,22 @@
+{
+    "name": "datashat",
+    "displayName": "datashat",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "mhillis",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "datashat",
+                "uiTheme": "vs-dark",
+                "path": "./themes/datashat-color-theme.json"
+            }
+        ]
+    }
+}
