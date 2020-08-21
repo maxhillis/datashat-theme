@@ -4,6 +4,7 @@
     "description": "To match theme from https://musicforprogramming.net/",
     "version": "1.0.0",
     "publisher": "maxhillis",
+    "repository": {"url": "https://github.com/maxhillis/datashat-theme"},
     "engines": {
         "vscode": "^1.28.0"
     },
