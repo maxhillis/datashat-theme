@@ -1,9 +1,9 @@
 {
-    "name": "datashat",
-    "displayName": "datashat",
-    "description": "",
-    "version": "0.0.1",
-    "publisher": "mhillis",
+    "name": "monokai-datashat-edit",
+    "displayName": "Monokai Datashat Edit",
+    "description": "To match theme from https://musicforprogramming.net/",
+    "version": "1.0.0",
+    "publisher": "maxhillis",
     "engines": {
         "vscode": "^1.28.0"
     },
@@ -13,7 +13,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "datashat",
+                "label": "Monokai Datashat Edit",
                 "uiTheme": "vs-dark",
                 "path": "./themes/datashat-color-theme.json"
             }
