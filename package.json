@@ -2,7 +2,7 @@
     "name": "monokai-datashat-edit",
     "displayName": "Monokai Datashat Edit",
     "description": "To match theme from https://musicforprogramming.net/",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "publisher": "maxhillis",
     "repository": {"url": "https://github.com/maxhillis/datashat-theme"},
     "engines": {

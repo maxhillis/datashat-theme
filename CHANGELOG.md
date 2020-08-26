@@ -1,7 +1,11 @@
 # Change Log
-All notable changes to the "datashat" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 1.0.2
+- Update README with pictures
 
-## [Unreleased]
+## 1.0.1
+- Fix python class colors
+- Fix python method colors
+
+## 1.0.0
 - Initial release
